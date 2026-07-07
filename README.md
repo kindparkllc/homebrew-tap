@@ -1,4 +1,3 @@
-```markdown
 # homebrew-tap
 
 Official Homebrew tap for [Awesome Copy](https://awesomecopy.app), a clipboard manager for Mac.
@@ -36,5 +35,4 @@ brew upgrade --cask kindparkllc/tap/awesome-copy-beta
 ```sh
 brew uninstall --cask kindparkllc/tap/awesome-copy
 brew uninstall --cask kindparkllc/tap/awesome-copy-beta
-```
 ```
