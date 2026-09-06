@@ -1,6 +1,6 @@
 cask "awesome-copy-beta" do
-  version "7.1b2,402"
-  sha256 "a7a13956677cf6e1d6477034841b2edc0e2d742ac72652add191ee5d51baf93a"
+  version "7.1b3,403"
+  sha256 "ef6d618dfb19a17560e069f81fa569d7d05d4926c2eb834e6bd56daed9e47a44"
 
   url "https://github.com/kindparkllc/Awesome-Copy/releases/download/Beta/AwesomeCopy-#{version.before_comma}-#{version.after_comma}.dmg"
   name "Awesome Copy"
